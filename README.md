@@ -18,7 +18,7 @@ Para instalar todas as dependências, execute:
 !pip install pandas seaborn matplotlib numpy scikit-learn
 ```
 
-Etapas do Projeto
+## Etapas do Projeto
 
 1. Coleta e Preparação dos Dados
 
@@ -34,14 +34,14 @@ Etapas do Projeto
 
 3. Aplicação de Estatística Básica
 
-Testes de hipótese para verificar diferenças significativas entre categorias de produtos.
+- Testes de hipótese para verificar diferenças significativas entre categorias de produtos.
 
 4. Modelagem de Machine Learning
 
-Desenvolvimento de modelos de regressão para previsão de vendas futuras.
-Utilização de regressão linear e árvores de decisão.
-Divisão do dataset em treino e teste.
-Avaliação dos modelos com MSE, RMSE e R².
+- Desenvolvimento de modelos de regressão para previsão de vendas futuras.
+- Utilização de regressão linear e árvores de decisão.
+- Divisão do dataset em treino e teste.
+- Avaliação dos modelos com MSE, RMSE e R².
 
 ### Resultados
 
