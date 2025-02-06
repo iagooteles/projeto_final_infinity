@@ -45,9 +45,7 @@ Para instalar todas as dependências, execute:
 
 ### Resultados
 
-Os modelos treinados foram comparados, e a árvore de decisão apresentou melhor desempenho, mas com possível overfitting. As métricas obtidas são:
-- Regressão Linear: MSE = 6851.37, RMSE = 82.77, R² = 0.93
-- Árvore de Decisão: MSE = 1303.85, RMSE = 36.11, R² = 0.99
+Os resultados estão apresentados no powerpoint e no próprio arquivo .ipynb;
 
 Conclusão
 
